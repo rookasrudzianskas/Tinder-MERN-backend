@@ -1,0 +1,19 @@
+{
+  "name": "tinder-mern-backend",
+  "version": "1.0.0",
+  "description": "This is tinder backend in node js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rookasrudzianskas/Tinder-MERN-backend.git"
+  },
+  "author": "Rokas Rudzianskas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rookasrudzianskas/Tinder-MERN-backend/issues"
+  },
+  "homepage": "https://github.com/rookasrudzianskas/Tinder-MERN-backend#readme"
+}
