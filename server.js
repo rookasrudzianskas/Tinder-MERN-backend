@@ -11,7 +11,11 @@ const connection_url = 'mongodb+srv://admin:spXZLWxZsFVHjEoX@cluster0.vbsho.mong
 
 
 // middlewares
-
+mongoose.connect(connection_url, {
+    useNewUrlParser: true,
+    useCreateIndex: true,
+    useUnifiedTopology: true,
+})
 
 
 
