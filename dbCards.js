@@ -1,3 +1,4 @@
+
 import mongoose from "mongoose";
 
 const cardSchema = mongoose.Schema({
@@ -5,4 +6,4 @@ const cardSchema = mongoose.Schema({
     imgUrl: String,
 });
 
-export default mongoose.model('cards', cardSchema);
+export default mongoose.model("cards", cardSchema);
